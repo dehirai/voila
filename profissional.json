@@ -1,0 +1,26 @@
+{
+    "profissional": {
+        "profissionalId": 0,
+        "nomeProf": "",
+        "emailProf": "",
+        "cpf": "",
+        "telefoneProf": "",
+        "senhaProf": "",
+        "avaliacao": "",
+        "endereco": {
+            "rua": "",
+            "bairro": "",
+            "numEnd": "", 
+            "cidade": "",
+            "estado": ""
+    },  "categoria": {
+            "categoriaId": "",
+            "descricaoCateg": ""
+        }
+    } 
+}
+
+
+
+
+

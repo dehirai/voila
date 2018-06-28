@@ -1,0 +1,51 @@
+{
+    "solicitacao": {
+        "numSolicitacao": 0,
+        "descricaoCateg": "",
+        "dataInicio": "",
+        "dataTermino": "",
+        "detalhes": "", 
+        "profissionalEscolhido": "",
+        "cliente": {
+            "clienteId": 0,
+            "nomeCli": "",
+            "emailCli": "",
+            "endereco": {
+                "rua": "",
+                "bairro": "",
+                "numEnd": "",
+                "cidade": "",
+                "estado": ""
+        },
+        "telefoneCli": "",
+        "senhaCli": ""
+    }, "orcamento": {
+        "orcamentoId": 0,
+        "valor": 0,
+        "descrição": "",
+        "profissional": {
+            "profissionalId": 0,
+            "nomeProf": "",
+            "emailProf": "",
+            "endereco": {
+                "rua": "",
+                "bairro": "",
+                "numEnd": "",
+                "cidade": "",
+                "estado": ""
+            },
+            "cpfProf": "",
+            "telefoneProf": "",
+            "senhaProf": "",
+            "avaliacao": "",
+            "categoria": {
+                "categoriaId": 0,
+                "descricaoCateg": ""
+            }
+        }
+    },  "status": {
+            "statusId": 0,
+            "descricaoStatus": ""
+        }
+}}
+

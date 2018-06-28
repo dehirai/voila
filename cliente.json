@@ -1,0 +1,18 @@
+{
+    "cliente": {
+        "clienteId": "",
+        "nomeCli": "",
+        "emailCli": "",
+        "endereco": {
+            "rua": "",
+            "bairro": "",
+            "numEnd": "", 
+            "cidade": "",
+            "estado": ""
+    },
+        "telefoneCli": "",
+        "senhaCli": ""
+    }
+}
+
+
